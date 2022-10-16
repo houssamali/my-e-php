@@ -1,0 +1,147 @@
+/*  table admin start*/
+
+.user-table{
+    margin-top: 50px;
+    border-radius: 10px;
+}
+.customer-table-bg{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    box-shadow:10rem ;
+    color: black;
+}
+.customer_image_backend_display{
+    width: 60px;
+    border-radius: 100%;
+}
+.add-admin{
+    width: 200px;
+    margin-bottom: 10px;
+}
+/*table admin end*/
+
+/*add admin form start*/
+.add-user-form{
+    margin-top: 50px;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.login-admin{
+    margin-top: 150px;
+}
+.form-size-input{
+    margin-top: 5px;
+    padding-top: 10px;
+    width: 400px;
+    background:blueviolet;
+    border-radius: 5px;
+   
+    
+}
+.diiv-content{
+   margin-bottom: 20px; 
+  padding-top: 5px;
+}
+.spaan-content{
+    width: 100px;
+    
+    background: black;
+    color: white;
+}
+.submit-input{
+    background: black;
+    color: red;
+    font-weight: bold;
+    font-size: 25px;
+    text-decoration: none;
+    text-align: center;
+}
+.input-array{
+    background-color: rgb(156, 156, 161);
+    color: rgb(107, 102, 102);
+    width: 90%;
+    margin-top: 10px;
+    font-weight: 10px;
+    font-size: 15px;
+}
+.exist-user{
+    width: 250px;
+    margin-top: 30px;
+    position: relative;
+    left: 42%;
+}
+/*add admin form end*/
+
+
+
+/*Start items page page*/
+.manage-items{
+    color: black;
+    font-weight: bold;
+    font-size: 50px;
+    margin: 30px 0 50px;
+}
+.card-main-class .card-center{
+    margin-left: 55px;
+    
+}
+.card-100{
+    position: relative;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    padding: 3px;
+}
+.card-img-top{
+   border-radius: 10px;
+}
+.card-price{
+   
+    position: absolute;
+    left: 2px;
+    top: 3px;
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+    background: rgb(153, 147, 147);
+    border-radius: 5px;
+    
+}
+/*.card-image{
+    width: 100%;
+}*/
+.card-200{
+    position: relative;
+}
+.card-date{
+    position: absolute;
+    left: 50%;
+    bottom: 18%;
+    margin-top: 10px;
+    margin-bottom: -10px;
+}
+.card-link-3{
+    margin-top: 50px;
+    
+}
+.image-hidden{
+    display: none;
+}
+.search-bg-390{
+   
+    width: 120px;
+  
+    font-weight: bold;
+    font-size: 25px;  
+}
+.search-bg-391{
+    font-weight: bold;
+    font-size: 30px;
+}
+.font-awesome{
+    margin-right: 5px;
+}
+
+/*end Items page*/
